@@ -4,7 +4,7 @@ title: About Me
 templateClass: tmpl-post
 menu:
   visible: true
-  order: 3
+  order: 2
 ---
 
 I am a person that writes stuff.
